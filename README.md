@@ -1,9 +1,16 @@
 <h1 align="center">Hi 👋, I'm Stephen George</h1>
 <h3 align="center">A Passionate Developer</h3>
 
-- 📫 How to reach me **stephengeorge2640@gmail.com**
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/12c5vcEIzYORcb14wq6NHdECHpmAzLk5J/view?usp=sharing)
+
+- 💞️ Been working on MERN stack projects.
+
+- 🌱 Have been learning new technologies to further my skills, some of them being Docker, MongoDB, Express JS etc.
+
+-👀  I’m actively looking for work, in the field. If you like my profile, and think I can work in your team, reach out to me.
+
+- 📫 How to reach me **stephengeorge2640@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
