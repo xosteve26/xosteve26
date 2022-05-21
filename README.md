@@ -8,7 +8,7 @@
 
 - 🌱 Have been learning new technologies to further my skills, some of them being Docker, MongoDB, Express JS etc.
 
--👀  I’m actively looking for work, in the field. If you like my profile, and think I can work in your team, reach out to me.
+- 👀 I’m actively looking for work, in the field. If you like my profile, and think I can work in your team, reach out to me.
 
 - 📫 How to reach me **stephengeorge2640@gmail.com**
 
