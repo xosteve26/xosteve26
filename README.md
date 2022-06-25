@@ -2,7 +2,7 @@
 <h3 align="center">A Passionate Developer</h3>
 
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/12c5vcEIzYORcb14wq6NHdECHpmAzLk5J/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1HwXaQ1BW95oUPN131k4PCpSb52kjR09s/view?usp=sharing)
 
 - 💞️ Been working on MERN stack projects.
 
